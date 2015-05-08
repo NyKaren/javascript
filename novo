@@ -1,0 +1,69 @@
+git --help
+ls
+cd documentos
+cd documents
+cd Documentos
+git clone  https://github.com/jprodrigues70/desafio-trainee.git
+cd desafio-trainee/
+git checkout -b app
+ls
+cd
+cd Documentos
+git clone https://github.com/jprodrigues70/desafio-trainee.git
+clear
+CD ..
+cd ..
+ls
+cd Documentos
+mkdir desafio-trainee
+ls
+mkdir app
+ls
+cd desafio-trainee/
+ls
+mkdir app
+ls
+cd app
+mkdir views
+cd ..
+ls
+mkdir karen
+cd karen
+git clone https://github.com/NyKaren/codigoC.git
+cd codigoC
+git status
+git config user.name
+git config user.name "Neyde Karen"
+git config user.name
+git config user.email
+git config user. email neydekaren@infojr.com.br
+git config user.email neydekaren@infojr.com.br
+git add testecss.html 
+git commit -m "Troquei a referência do css do Academy, para o do arquivo"
+git push origin master
+git checkout -b mudei
+git status
+git add *
+git branch"
+git branch
+git commit -m "Mudei a cor do parágrafo"
+git push origin mudei
+git log --graf
+git log --graph
+whoami
+su infojr 
+touch alalal
+su infojr 
+ls
+vi alala
+ls
+rm alala
+cat bahea
+firefox bahea
+cd documentos
+cd Documentos/karen/
+ls
+ls -a
+mkdir javascript
+cd codigoC
+su infojr 
